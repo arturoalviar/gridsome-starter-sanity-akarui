@@ -45,7 +45,7 @@ module.exports = {
     },
     container: {
       padding: {
-        default: remCalc(32),
+        DEFAULT: remCalc(32),
         xl: remCalc(90),
       },
     },
